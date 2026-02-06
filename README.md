@@ -1,0 +1,2 @@
+# sysmlv2-parse
+RustのパッケージSysterを使用したSysML v2のパーサのサンプルプログラム
